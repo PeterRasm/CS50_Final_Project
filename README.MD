@@ -3,6 +3,6 @@ ___
 
 Just trying to figure out how this whole thing works
 
-![alt text](no_apps.png)
+![alt text](images/no_apps.png)
 
 > The END
